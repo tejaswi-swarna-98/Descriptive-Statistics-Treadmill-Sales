@@ -8,7 +8,8 @@ This project is based on Descriptive Statistics, which provide a quantitative ov
   1. Data Pre-Processing
   2. Exploratory Data Analysis
   3. Marginal & Conditional Probability
-  4. Conclusions and Recommendations
+  4. Customer Profiling
+  5. Conclusions and Recommendations
 
 ## **Dataset**
 This dataset is a publicly available dataset taken from kaggle. 
