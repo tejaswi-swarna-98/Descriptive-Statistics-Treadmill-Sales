@@ -1,4 +1,4 @@
-# Aerofit-Descriptive-Statistics
+# Descriptive-Statistics-Treadmill-Sales
 This project is all about performing descriptive analytics to create a customer profile for each AeroFit Treadmill product by developing appropriate tables and charts.
 
 ## **Overview**
